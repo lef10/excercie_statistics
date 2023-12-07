@@ -1,1 +1,1 @@
-# excercie_statistics
+# excercice_statistics
