@@ -1,0 +1,246 @@
+﻿"EMP2 - Emplois au lieu de travail par sexe, statut et secteur d'activité économique en 2020"
+"France entière"
+"© Insee"
+
+
+"EMP2 - Secteur simplifié en 5 postes - Sexe : Ensemble"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"285778";"397571";"683350";
+"Industrie manufacturière, industries extractives et autres";"2992368";"202428";"3194796";
+"Construction";"1320540";"414675";"1735215";
+"Commerce, transports et services divers";"11014493";"1771517";"12786010";
+"Administration publique, enseignement, santé humaine et action sociale";"8094279";"551418";"8645697";
+"Ensemble";"23707458";"3337609";"27045067";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur simplifié en 5 postes - Sexe : Hommes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"191383";"294176";"485559";
+"Industrie manufacturière, industries extractives et autres";"2092642";"142052";"2234694";
+"Construction";"1134858";"394427";"1529285";
+"Commerce, transports et services divers";"5817776";"1101127";"6918904";
+"Administration publique, enseignement, santé humaine et action sociale";"2516010";"225632";"2741642";
+"Ensemble";"11752670";"2157415";"13910084";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur simplifié en 5 postes - Sexe : Femmes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"94395";"103395";"197790";
+"Industrie manufacturière, industries extractives et autres";"899726";"60376";"960102";
+"Construction";"185682";"20248";"205930";
+"Commerce, transports et services divers";"5196717";"670389";"5867106";
+"Administration publique, enseignement, santé humaine et action sociale";"5578269";"325786";"5904055";
+"Ensemble";"11954788";"1180194";"13134982";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur regroupé en 17 postes - Sexe : Ensemble"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"285778";"397571";"683350";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"543661";"57671";"601332";
+"Cokéfaction et raffinage";"8608";"106";"8714";
+"Fabrication d'équipements électriques, électroniques, informatiques et fabrication de machines";"380784";"9660";"390444";
+"Fabrication de matériels de transport";"324190";"3722";"327912";
+"Fabrication d'autres produits industriels";"1342302";"120582";"1462884";
+"Industries extractives, énergie, eau, gestion des déchets et dépollution";"392823";"10687";"403510";
+"Construction";"1320540";"414675";"1735215";
+"Commerce, réparation d'automobiles et de motocycles";"2958550";"460008";"3418559";
+"Transports et entreposage";"1293876";"89996";"1383872";
+"Hébergement et restauration";"911102";"181694";"1092797";
+"Information et communication";"757444";"100290";"857734";
+"Activités financières et d'assurance";"873084";"60332";"933416";
+"Activités immobilières";"309680";"79305";"388985";
+"Activités scientifiques et techniques, services administratifs et de soutien";"2835687";"502485";"3338172";
+"Administration publique, enseignement, santé humaine et action sociale";"8094279";"551418";"8645697";
+"Autres activités de services";"1075070";"297405";"1372475";
+"Ensemble";"23707458";"3337609";"27045067";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur regroupé en 17 postes - Sexe : Hommes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"191383";"294176";"485559";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"309915";"39262";"349176";
+"Cokéfaction et raffinage";"6763";"95";"6858";
+"Fabrication d'équipements électriques, électroniques, informatiques et fabrication de machines";"280417";"8376";"288794";
+"Fabrication de matériels de transport";"257219";"3305";"260524";
+"Fabrication d'autres produits industriels";"945160";"81757";"1026917";
+"Industries extractives, énergie, eau, gestion des déchets et dépollution";"293168";"9256";"302425";
+"Construction";"1134858";"394427";"1529285";
+"Commerce, réparation d'automobiles et de motocycles";"1512942";"302421";"1815362";
+"Transports et entreposage";"937226";"78659";"1015885";
+"Hébergement et restauration";"454505";"112712";"567217";
+"Information et communication";"503048";"78167";"581215";
+"Activités financières et d'assurance";"356848";"43093";"399941";
+"Activités immobilières";"129121";"46375";"175496";
+"Activités scientifiques et techniques, services administratifs et de soutien";"1516310";"319211";"1835521";
+"Administration publique, enseignement, santé humaine et action sociale";"2516010";"225632";"2741642";
+"Autres activités de services";"407777";"120488";"528265";
+"Ensemble";"11752670";"2157415";"13910084";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur regroupé en 17 postes - Sexe : Femmes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"94395";"103395";"197790";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"233746";"18409";"252155";
+"Cokéfaction et raffinage";"1845";"11";"1856";
+"Fabrication d'équipements électriques, électroniques, informatiques et fabrication de machines";"100366";"1284";"101650";
+"Fabrication de matériels de transport";"66971";"417";"67388";
+"Fabrication d'autres produits industriels";"397143";"38825";"435968";
+"Industries extractives, énergie, eau, gestion des déchets et dépollution";"99655";"1430";"101085";
+"Construction";"185682";"20248";"205930";
+"Commerce, réparation d'automobiles et de motocycles";"1445609";"157588";"1603196";
+"Transports et entreposage";"356650";"11337";"367987";
+"Hébergement et restauration";"456598";"68982";"525580";
+"Information et communication";"254396";"22123";"276519";
+"Activités financières et d'assurance";"516237";"17238";"533475";
+"Activités immobilières";"180559";"32930";"213489";
+"Activités scientifiques et techniques, services administratifs et de soutien";"1319377";"183274";"1502651";
+"Administration publique, enseignement, santé humaine et action sociale";"5578269";"325786";"5904055";
+"Autres activités de services";"667292";"176917";"844210";
+"Ensemble";"11954788";"1180194";"13134982";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur détaillé en 38 postes - Sexe : Ensemble"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"285778";"397571";"683350";
+"Industries extractives";"22440";"1056";"23497";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"543661";"57671";"601332";
+"Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure";"99522";"17269";"116791";
+"Travail du bois, industries du papier et imprimerie";"165744";"23712";"189456";
+"Cokéfaction et raffinage";"8608";"106";"8714";
+"Industrie chimique";"140755";"3337";"144093";
+"Industrie pharmaceutique";"82769";"689";"83459";
+"Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques";"241796";"11943";"253739";
+"Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements";"357133";"17516";"374649";
+"Fabrication de produits informatiques, électroniques et optiques";"115152";"2644";"117796";
+"Fabrication d'équipements électriques";"99595";"2357";"101952";
+"Fabrication de machines et équipements (non compris ailleurs)";"166036";"4660";"170696";
+"Fabrication de matériels de transport";"324190";"3722";"327912";
+"Autres industries manufacturières ; réparation et installation de machines et d'équipements";"254581";"46116";"300697";
+"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné";"184244";"2718";"186962";
+"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution";"186139";"6912";"193051";
+"Construction";"1320540";"414675";"1735215";
+"Commerce ; réparation d'automobiles et de motocycles";"2958550";"460008";"3418559";
+"Transports et entreposage";"1293876";"89996";"1383872";
+"Hébergement et restauration";"911102";"181694";"1092797";
+"Edition, audiovisuel et diffusion";"212291";"39645";"251936";
+"Télécommunications";"117219";"2562";"119781";
+"Activités informatiques et services d'information";"427934";"58083";"486017";
+"Activités financières et d'assurance";"873084";"60332";"933416";
+"Activités immobilières";"309680";"79305";"388985";
+"Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques";"1004665";"279354";"1284020";
+"Recherche-développement scientifique";"174447";"3416";"177863";
+"Autres activités spécialisées, scientifiques et techniques";"177373";"94854";"272226";
+"Activités de services administratifs et de soutien";"1479202";"124861";"1604063";
+"Administration publique";"2617608";"14801";"2632410";
+"Enseignement";"1977689";"91664";"2069354";
+"Activités pour la santé humaine";"1498585";"421800";"1920384";
+"Hébergement médico-social et social et action sociale sans hébergement";"2000397";"23152";"2023549";
+"Arts, spectacles et activités récréatives";"341399";"102966";"444366";
+"Autres activités de services";"599472";"192022";"791494";
+"Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre";"116753";"2016";"118769";
+"Activités extra-territoriales";"17445";"401";"17847";
+"Ensemble";"23707458";"3337609";"27045067";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur détaillé en 38 postes - Sexe : Hommes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"191383";"294176";"485559";
+"Industries extractives";"18660";"913";"19572";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"309915";"39262";"349176";
+"Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure";"36739";"4488";"41227";
+"Travail du bois, industries du papier et imprimerie";"121443";"16682";"138125";
+"Cokéfaction et raffinage";"6763";"95";"6858";
+"Industrie chimique";"87222";"2095";"89317";
+"Industrie pharmaceutique";"40076";"458";"40534";
+"Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques";"180145";"8171";"188315";
+"Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements";"293667";"16027";"309695";
+"Fabrication de produits informatiques, électroniques et optiques";"78044";"2257";"80300";
+"Fabrication d'équipements électriques";"69839";"1891";"71731";
+"Fabrication de machines et équipements (non compris ailleurs)";"132534";"4228";"136763";
+"Fabrication de matériels de transport";"257219";"3305";"260524";
+"Autres industries manufacturières ; réparation et installation de machines et d'équipements";"185866";"33837";"219703";
+"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné";"133423";"2260";"135684";
+"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution";"141086";"6083";"147169";
+"Construction";"1134858";"394427";"1529285";
+"Commerce ; réparation d'automobiles et de motocycles";"1512942";"302421";"1815362";
+"Transports et entreposage";"937226";"78659";"1015885";
+"Hébergement et restauration";"454505";"112712";"567217";
+"Edition, audiovisuel et diffusion";"120832";"26767";"147599";
+"Télécommunications";"78703";"2193";"80896";
+"Activités informatiques et services d'information";"303513";"49207";"352720";
+"Activités financières et d'assurance";"356848";"43093";"399941";
+"Activités immobilières";"129121";"46375";"175496";
+"Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques";"506944";"173337";"680281";
+"Recherche-développement scientifique";"92425";"2341";"94766";
+"Autres activités spécialisées, scientifiques et techniques";"79076";"53311";"132388";
+"Activités de services administratifs et de soutien";"837864";"90223";"928087";
+"Administration publique";"1229625";"8980";"1238605";
+"Enseignement";"625439";"47321";"672760";
+"Activités pour la santé humaine";"323051";"159582";"482634";
+"Hébergement médico-social et social et action sociale sans hébergement";"337895";"9748";"347643";
+"Arts, spectacles et activités récréatives";"175876";"61388";"237264";
+"Autres activités de services";"214446";"57704";"272150";
+"Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre";"9309";"1185";"10494";
+"Activités extra-territoriales";"8146";"211";"8358";
+"Ensemble";"11752670";"2157415";"13910084";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
+
+
+"EMP2 - Secteur détaillé en 38 postes - Sexe : Femmes"
+"";"Salariés";"Non salariés";"Ensemble";
+"Agriculture, sylviculture et pêche";"94395";"103395";"197790";
+"Industries extractives";"3781";"144";"3924";
+"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac";"233746";"18409";"252155";
+"Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure";"62783";"12780";"75563";
+"Travail du bois, industries du papier et imprimerie";"44301";"7030";"51331";
+"Cokéfaction et raffinage";"1845";"11";"1856";
+"Industrie chimique";"53533";"1243";"54776";
+"Industrie pharmaceutique";"42693";"232";"42925";
+"Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques";"61652";"3772";"65424";
+"Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements";"63466";"1489";"64954";
+"Fabrication de produits informatiques, électroniques et optiques";"37109";"387";"37496";
+"Fabrication d'équipements électriques";"29756";"466";"30221";
+"Fabrication de machines et équipements (non compris ailleurs)";"33502";"431";"33933";
+"Fabrication de matériels de transport";"66971";"417";"67388";
+"Autres industries manufacturières ; réparation et installation de machines et d'équipements";"68715";"12279";"80994";
+"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné";"50821";"458";"51278";
+"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution";"45053";"829";"45882";
+"Construction";"185682";"20248";"205930";
+"Commerce ; réparation d'automobiles et de motocycles";"1445609";"157588";"1603196";
+"Transports et entreposage";"356650";"11337";"367987";
+"Hébergement et restauration";"456598";"68982";"525580";
+"Edition, audiovisuel et diffusion";"91459";"12878";"104337";
+"Télécommunications";"38516";"369";"38886";
+"Activités informatiques et services d'information";"124421";"8876";"133297";
+"Activités financières et d'assurance";"516237";"17238";"533475";
+"Activités immobilières";"180559";"32930";"213489";
+"Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques";"497721";"106018";"603739";
+"Recherche-développement scientifique";"82022";"1076";"83097";
+"Autres activités spécialisées, scientifiques et techniques";"98297";"41542";"139839";
+"Activités de services administratifs et de soutien";"641338";"34638";"675976";
+"Administration publique";"1387983";"5821";"1393805";
+"Enseignement";"1352250";"44343";"1396593";
+"Activités pour la santé humaine";"1175534";"262217";"1437751";
+"Hébergement médico-social et social et action sociale sans hébergement";"1662502";"13404";"1675906";
+"Arts, spectacles et activités récréatives";"165523";"41578";"207102";
+"Autres activités de services";"385026";"134318";"519344";
+"Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre";"107444";"831";"108275";
+"Activités extra-territoriales";"9299";"190";"9489";
+"Ensemble";"11954788";"1180194";"13134982";
+
+"Source : Insee, RP2020 exploitation complémentaire, géographie au 01/01/2023."
